@@ -1,2 +1,1 @@
-# PYTHON---self-study
-Personal projects / research
+# PYTHON--
